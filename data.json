@@ -63,10 +63,10 @@
   "hero_subtitle": "Welkomstbonus",
   "hero_badge": "DailyLuck Casino – Registreer je en speel mee",
   "cta_text": "Nu spelen",
-  "tagline": "150% up to £1,000 + 100 Free Spins",
+  "tagline": "150% up to €1,000 + 100 Free Spins",
   "features_list": null,
   "footer_text": "© 2026. DailyLuck Casino. All rights reserved",
-  "popup_text": "Bonus 150% up to £1,000",
+  "popup_text": "Bonus 150% up to €1,000",
   "faq_title": "FAQ",
   "login_text": "Inloggen",
   "register_text": "Aanmelden",
@@ -202,21 +202,21 @@
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "/uploads/c3d34f35a05dfb63e29f2e0393c34613.webp",
+      "logo": "/uploads/074ffcde24a4bb9847b495805e11d148.webp",
       "name": "Monday Cashback 10%",
       "Name": "Monday Cashback 10%"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/d7412f5a54360e0dea0e3c2f1f15fc42.webp",
+      "logo": "/uploads/3cd89a359c6c752b44f3203ec79790c0.webp",
       "name": "Weekly Reload 50% up to £150",
       "Name": "Weekly Reload 50% up to £150"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/450099aa7fc2b4648ed08d1fbfe798f9.webp",
-      "name": "Welcome Bonus 150% up to £1,000 + 100 FS",
-      "Name": "Welcome Bonus 150% up to £1,000 + 100 FS"
+      "logo": "/uploads/94d2f0583b87f4027db9940c29c43822.webp",
+      "name": "Welkomstbonus van 150% tot €1.000 + 100 GS",
+      "Name": "Welkomstbonus van 150% tot €1.000 + 100 GS"
     }
   ],
   "Reviews": null,
@@ -242,8 +242,8 @@
       "question": "Hoe veilig is het platform voor Europese spelers?"
     }
   ],
-  "_generated_at": "2026-11-10T14:47:59.914Z",
+  "_generated_at": "2026-11-10T15:11:15.136Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-10T14:48:04.596Z",
-  "_deploy_trigger": "gkicgo"
+  "_last_deploy": "2026-11-10T15:11:15.929Z",
+  "_deploy_trigger": "i4mp6"
 }
