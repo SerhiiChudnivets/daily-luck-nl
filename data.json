@@ -91,11 +91,13 @@
   "popup_logo": {
     "url": "/uploads/dailyluck-logo.webp"
   },
-  "main_background_img": null,
+  "main_background_img": {
+    "url": "/uploads/dailyluck-casino.webp"
+  },
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Bonuses",
+      "label": "Bonussen",
       "submenu": [],
       "openInNewTab": false
     },
@@ -107,19 +109,19 @@
     },
     {
       "link": "/play/",
-      "label": "Login",
+      "label": "Inloggen",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Slots",
+      "label": "Speelautomaten",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Withdrawal",
+      "label": "Opname",
       "submenu": [],
       "openInNewTab": false
     }
@@ -127,7 +129,7 @@
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "About us",
+      "label": "Over ons",
       "submenu": [],
       "openInNewTab": false
     },
@@ -139,13 +141,13 @@
     },
     {
       "link": "/play/",
-      "label": "Cookies Policy",
+      "label": "Cookiebeleid",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Terms & Conditions",
+      "label": "Algemene voorwaarden",
       "submenu": [],
       "openInNewTab": false
     }
@@ -155,11 +157,6 @@
       "link": "/play/",
       "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
       "image_alt": "18+"
-    },
-    {
-      "link": "https://www.gamcare.org.uk/",
-      "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
-      "image_alt": "gamcare"
     }
   ],
   "Slots": [
@@ -203,14 +200,14 @@
     {
       "link": "/play/",
       "logo": "/uploads/074ffcde24a4bb9847b495805e11d148.webp",
-      "name": "Monday Cashback 10%",
-      "Name": "Monday Cashback 10%"
+      "name": "Maandag: 10% cashback",
+      "Name": "Maandag: 10% cashback"
     },
     {
       "link": "/play/",
       "logo": "/uploads/3cd89a359c6c752b44f3203ec79790c0.webp",
-      "name": "Weekly Reload 50% up to £150",
-      "Name": "Weekly Reload 50% up to £150"
+      "name": "Wekelijkse herlaadbonus van 50% tot maximaal €150",
+      "Name": "Wekelijkse herlaadbonus van 50% tot maximaal €150"
     },
     {
       "link": "/play/",
@@ -242,8 +239,8 @@
       "question": "Hoe veilig is het platform voor Europese spelers?"
     }
   ],
-  "_generated_at": "2026-11-10T15:11:15.136Z",
+  "_generated_at": "2026-11-11T08:59:13.445Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-10T15:11:15.929Z",
-  "_deploy_trigger": "i4mp6"
+  "_last_deploy": "2026-11-11T08:59:14.156Z",
+  "_deploy_trigger": "63ehm"
 }
