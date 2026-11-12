@@ -1,11 +1,11 @@
 {
   "name": "daily-luck.nl",
   "site_name": "DailyLuck Casino | Beste Slots, Bonussen en Payouts",
-  "html_head": "<link rel=\"canonical\" href=\"https://daily-luck.nl/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"DailyLuck Casino | Beste Slots, Bonussen en Payouts\">\n<meta property=\"og:description\" content=\"Ontdek het ultieme online gaming avontuur bij DailyLuck Casino! Profiteer van royale welkomstbonussen, duizenden top-slots en supersnelle uitbetalingen in €.\">\n<meta property=\"og:url\" content=\"https://daily-luck.nl/\">\n<meta property=\"og:site_name\" content= \"DailyLuck Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"DailyLuck Casino | Beste Slots, Bonussen en Payouts\">\n<meta name=\"twitter:description\" content=\"Ontdek het ultieme online gaming avontuur bij DailyLuck Casino! Profiteer van royale welkomstbonussen, duizenden top-slots en supersnelle uitbetalingen in €.\">",
+  "html_head": "<meta name=\"google-site-verification\" content=\"ys9f3zsD3vYDugts4aRGJ4encLtBtipQVl-oq76D944\" />\n<link rel=\"canonical\" href=\"https://daily-luck.nl/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"DailyLuck Casino | Beste Slots, Bonussen en Payouts\">\n<meta property=\"og:description\" content=\"Ontdek het ultieme online gaming avontuur bij DailyLuck Casino! Profiteer van royale welkomstbonussen, duizenden top-slots en supersnelle uitbetalingen in €.\">\n<meta property=\"og:url\" content=\"https://daily-luck.nl/\">\n<meta property=\"og:site_name\" content= \"DailyLuck Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"DailyLuck Casino | Beste Slots, Bonussen en Payouts\">\n<meta name=\"twitter:description\" content=\"Ontdek het ultieme online gaming avontuur bij DailyLuck Casino! Profiteer van royale welkomstbonussen, duizenden top-slots en supersnelle uitbetalingen in €.\">",
   "url": "daily-luck.nl",
   "template": "tupchiy",
   "language_code": "nl",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": false,
@@ -239,8 +239,8 @@
       "question": "Hoe veilig is het platform voor Europese spelers?"
     }
   ],
-  "_generated_at": "2026-11-11T09:18:37.901Z",
+  "_generated_at": "2026-11-12T13:54:36.613Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-11T09:18:38.625Z",
-  "_deploy_trigger": "j90o5b"
+  "_last_deploy": "2026-11-12T13:54:37.356Z",
+  "_deploy_trigger": "s09biu"
 }
